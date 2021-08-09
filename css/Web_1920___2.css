@@ -1,0 +1,54 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 2;
+	--web-view-id: Web_1920__2;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+	--web-is-overlay: true;
+}
+:root {
+	--web-view-ids: Web_1920__2;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920__2 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	overflow: hidden;
+	cursor: pointer;
+	--web-view-name: Web 1920 – 2;
+	--web-view-id: Web_1920__2;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+	--web-is-overlay: true;
+}
+#n_5 {
+	fill: rgba(185,155,3,1);
+}
+.n_5 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+}
+#Text {
+	left: 656px;
+	top: 437px;
+	position: absolute;
+	overflow: visible;
+	width: 609px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Yu Mincho;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 160px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 4px;
+}
